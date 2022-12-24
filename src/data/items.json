@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "oranges",
+        "price": 10.99,
+        "imgUrl": "/img/oranges.jpg"
+    },
+    {
+        "id": 2,
+        "name": "eggs",
+        "price": 3.99,
+        "imgUrl": "/img/eggs.jpg"
+    },
+    {
+        "id": 3,
+        "name": "pears",
+        "price": 7.99,
+        "imgUrl": "/img/pears.jpg"
+    },
+    {
+        "id": 4,
+        "name": "fish",
+        "price": 11.99,
+        "imgUrl": "/img/fish.jpg"
+    }
+]
